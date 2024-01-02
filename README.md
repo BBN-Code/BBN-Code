@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BBN-Code.BBN-Code" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-      font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brindaban!;" />
+   <h3>Hi+There!+👋;+I'm+Brindaban+Bikash+Nath!</h3>
 </h1>
 
 <h3 align="center">A passionate Frontend Developer from India</h3>
@@ -39,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,react,redux,router,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,redux,firebase" /><br>
 </div>
 
 <br/>
