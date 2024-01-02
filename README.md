@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BBN-Code.BBN-Code" />
 
 <h1 align="center">
-   <h3>Hi+There!+👋;+I'm+Brindaban+Bikash+Nath!</h3>
+   Hi There! 👋; I'm Brindaban Bikash Nath!
 </h1>
 
 <h3 align="center">A passionate Frontend Developer from India</h3>
