@@ -4,7 +4,7 @@
    Hi There! 👋; I'm Brindaban Bikash Nath!
 </h1>
 
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from INDIA</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, Redux, Router**
 
-💬 Ask me about **JavaScript, React, Firebase [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **JavaScript, React, Firebase [here](https://github.com/BBN-Code/BBN-Code/issues)**
 
 ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar on August 27, 1896**
 
@@ -24,11 +24,11 @@
   <a href="mailto:brindabanbnath@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="linkedin.com/in/brindaban-bikash-nath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="linkedin.com/in/brindaban-bikash-nath" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="#">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -40,16 +40,6 @@
     <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,firebase" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<hr/>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
 
 <div align="center">
